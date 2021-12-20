@@ -1,0 +1,11 @@
+{
+    "list": "new",
+    "users": [{
+        "balance": 138809,
+        "user": "dd",
+        "items": [{
+            "price": 123,
+            "name": "asd"
+        }]
+    }]
+}

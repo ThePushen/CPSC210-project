@@ -1,0 +1,21 @@
+{
+    "list": "44",
+    "users": [
+        {
+            "balance": 2000,
+            "user": "bob",
+            "items": [{
+                "price": 100,
+                "name": "aa"
+            }]
+        },
+        {
+            "balance": 1000,
+            "user": "sam",
+            "items": [{
+                "price": 100,
+                "name": "aa"
+            }]
+        }
+    ]
+}
